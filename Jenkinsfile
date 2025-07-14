@@ -5,6 +5,7 @@ pipeline{
   Keep Maven Name           : Maven
   SonarQube Setting Name as : Sonarqube
   AWS Credential name as    : AWS_Credentials
+  Git credential name as    : Git_Credentials
 */
 
   
